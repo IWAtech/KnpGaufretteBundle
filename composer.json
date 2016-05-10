@@ -23,7 +23,7 @@
 	],
     "require":      {
         "symfony/framework-bundle": "~2.0|~3.0",
-        "knplabs/gaufrette":        "dev-utf8-mode as dev-master"
+        "knplabs/gaufrette":        "dev-evil_hacks as dev-master"
     },
     "require-dev": {
         "symfony/yaml": "~2.0|~3.0",
